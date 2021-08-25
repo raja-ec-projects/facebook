@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Hello I am in master branch...
+=======
+>>>>>>> d443809 (updated in dev)
 Hello I am in dev branch
 Hello guys Git commands are very important...
 
